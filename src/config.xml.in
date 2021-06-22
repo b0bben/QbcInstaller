@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <Installer>
-    <Name>@QBC_NAME@</Name>
+    <Name>@QBC_PACKAGE@</Name>
     <Version>@QBC_VERSION@</Version>
     <Title>@QBC_TITLE@</Title>
     <Publisher>@QBC_PUBLISHER@</Publisher>

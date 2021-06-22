@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package>
+    <Name>@QBC_PACKAGE@</Name>
     <DisplayName>@QBC_PACKAGE_NAME@</DisplayName>
     <Description>Install @QBC_PACKAGE_NAME@.</Description>
     <Version>@QBC_PACKAGE_VERSION@</Version>
